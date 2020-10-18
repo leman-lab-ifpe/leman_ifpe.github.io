@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bem ao LEMAN
 
-You can use the [editor on GitHub](https://github.com/leman-lab-ifpe/leman_ifpe.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Somos um laboratório de Pesquisa Aplicada voltado ao desenvolvimento de soluções inovadoras através do uso da química, da nanotecnologia e do machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Durante os últimos 6 anos, nossa equipe vem se especializando no desenvolvimento de novas metodologias verdes de síntese eletroquímicas de compostos orgânicos com alto valor agregado, síntese e aplicação de grafeno e óxido de grafeno, além do desenvolvimento de sensores inteligentes.
 
 ### Markdown
 
